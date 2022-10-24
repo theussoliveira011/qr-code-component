@@ -16,7 +16,7 @@ The objective of this project is to maintain consistency in coding and learn mor
 
 ## See this project in your local machine
 ```shell
-  git clone https://github.com/theussoliveira011/qr-.git
+  git clone git@github.com:theussoliveira011/qr-code-component.git
 ```
 
 #### Screenshot
